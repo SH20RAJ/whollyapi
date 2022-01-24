@@ -2,6 +2,8 @@
 include 'simple_html_dom.php';
 // Create DOM from URL or file
 header('Content-Type: application/json; charset=utf-8');
+header('Access-Control-Allow-Origin: *');
+
 if(isset($_GET['page'])){$page = $_GET['page'];}else{$page = 1;}
         
     
