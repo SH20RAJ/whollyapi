@@ -2,6 +2,7 @@
 include 'simple_html_dom.php';
 // Create DOM from URL or file
 header('Content-Type: application/json; charset=utf-8');
+header('Access-Control-Allow-Origin: *');
 
 if(isset($_GET['id'])){
     $q=$_GET['id'];
