@@ -8,18 +8,33 @@ if(isset($_GET['page'])){$page = $_GET['page'];}else{$page = 1;}
 if(isset($_GET['q'])){
     $q=$_GET['q'];
     $url = "https://www.pngaaa.com/search/".$q."/".$page."/";
-}else$q="";
+    $status = 1;
+}else{$q="";$status=0;}
     
 $html = file_get_html($url);
-    
+
+
+
+
 $idlist = [];
+$suggetions = [];
         //echo $feeds = $html->find('#main',0)->innertext;
     
 foreach($html->find('.photo-grid-item') as $element){
     array_push($idlist,substr($element->href,8));
 }
- 
- print_r($idlist);
+foreach($html->find('.breadcrumbItem') as $element){
+    array_push($suggetions,$element->title);
+}
+$detais = [
+    'status' => $status,
+    'query' => $q,
+    'page' => $page,
+    'data' => $idlist,
+    'suggetions' => $suggetions,
+];
+$detais = json_encode($detais,JSON_PRETTY_PRINT);
+print_r($detais);
     
     
 
