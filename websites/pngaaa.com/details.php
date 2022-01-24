@@ -36,7 +36,7 @@ $detais = [
     'filetype' => $filetype,
     'related' => $idlist,
     'date' => $html->find('.icon_date',0)->innertext,
-    'licence' => $html->find('.icon_licence',0)->innertext,
+    'license' => $html->find('.icon_licence',0)->innertext,
     'dimensions' => $html->find('.icon_dimensions',0)->innertext,
 ];
 $detais = json_encode($detais,JSON_PRETTY_PRINT);
