@@ -1,7 +1,7 @@
 # whollyapi
-WhollyAPI - Get Free APIs of Many Website - Public or Scrapped - Use even from JavaScript
+🔆 WhollyAPI - Get Free APIs of Many Website - Public or Scrapped - Use even from JavaScript
 
-## See all features and Article on whollyapi Here :- https://dev.to/sh20raj/series/16500
+## 🔆 See all features and Article on whollyapi Here :- <a href="https://bit.ly/3fP3Nh7">https://dev.to/sh20raj/series/16500</a>
 
 ## Our Products
 ### Grabbing Website details - https://wholly-api.herokuapp.com/get/
