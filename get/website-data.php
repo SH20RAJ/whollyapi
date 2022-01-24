@@ -1,5 +1,13 @@
 <?php
 include '../assets/simplehtmldom.php';
+
+if(isset($_GET['get_html'])){
+       header('Content-Type: application/json; charset=utf-8');
+       echo file_get_html($_GET['get_html']);
+       die();
+}
+header('Content-Type: application/json; charset=utf-8');
+
 // Create DOM from URL or file
 if(isset($_GET['url'])){$url = $_GET['url'];}else{$url = "https://www.youtube.com/channel/UCFPFrVOaeG3q1PEzpeh7hCg";}
 

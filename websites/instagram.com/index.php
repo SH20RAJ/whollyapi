@@ -2,49 +2,29 @@
 include '../shd.php';
 // Create DOM from URL or file
 //header('Content-Type: application/json; charset=utf-8');
+header('Content-Type: application/json; charset=utf-8');
+
+if(isset($_GET['id'])){
+    $id=$_GET['id'];
+    $url = "https://www.tubeoffline.com/downloadFrom.php?host=Instagram&video=https://www.instagram.com/p/".$id."/embed/";
+    $status = 1;
+}else{$id="";$status=0;echo "id unavailable - try ?id={{your insta post id}}";die();}
 
 
-    $url = "https://www.instagram.com/";
 
-    
+$status = 1;
+
 $html = file_get_html($url);
 //echo $html;
-foreach($html->find('a') as $element){
-    echo $element->href."<br>";
-}
-
-
-/*
-$idlist = [];
-
-$title = $html->find('title',0)->innertext;
-$size = $html->find('.icon_filesize',0)->innertext;
-$filetype = $html->find('.icon_filetype',0)->innertext;
-
-$description = $html->find('meta[name=description]',0)->innertext;
-
-
-
-foreach($html->find('.photo-grid-item') as $element){
-    array_push($idlist,substr($element->href,8));
-}
-
+$link = $html->find('#videoDownload a',0)->href;
+$size = null;
 
 $detais = [
     'status' => $status,
-    'id' => $q,
-    'title' => $title,
+    'id' => $id,
     'size' => $size,
-    'download' => 'https://www.pngaaa.com/api-download/'.$q,
-    'middle_size_image' => 'https://image.pngaaa.com/'. substr($q,-3) .'/'.$q.'-middle.png',
-    'small_size_image' => 'https://image.pngaaa.com/'. substr($q,-3) .'/'.$q.'-small.png',
-    'filetype' => $filetype,
-    'related' => $idlist,
-    'date' => $html->find('.icon_date',0)->innertext,
-    'licence' => $html->find('.icon_licence',0)->innertext,
-    'dimensions' => $html->find('.icon_dimensions',0)->innertext,
+    'download' => $link,
 ];
 $detais = json_encode($detais,JSON_PRETTY_PRINT);
 print_r($detais);
-    */
 ?>
