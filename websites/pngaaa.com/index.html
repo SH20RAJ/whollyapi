@@ -20,7 +20,7 @@
   <script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
 <div class="container" id="mypost"></div>
 <script>
-fetch('https://raw.githubusercontent.com/SH20RAJ/whollyapi/main/websites/pngaaa.com/README.md').then(response => response.text())
+fetch('README.md').then(response => response.text())
   .then(data => {
   console.log(data);
   var converter = new showdown.Converter();
