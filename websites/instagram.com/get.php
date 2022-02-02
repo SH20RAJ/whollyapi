@@ -7,7 +7,7 @@ header('Access-Control-Allow-Origin: *');
 
 if(isset($_GET['id'])){
     $id=$_GET['id'];
-    $url = "https://www.tubeoffline.com/downloadFrom.php?host=Instagram&video=https://www.instagram.com/p/".$id."/embed/";
+    $url = "https://imginn.org/p/".$id."/";
     $status = 1;
 }else{$id="";$status=0;echo "id unavailable - try ?id={{your insta post id}}";die();}
 
@@ -16,15 +16,28 @@ if(isset($_GET['id'])){
 $status = 1;
 
 $html = file_get_html($url);
-//echo $html;
-$link = $html->find('#videoDownload a',0)->href;
-$size = null;
+
+$user = $html->find('.avatar img',0)->alt;
+$userimage = $html->find('.avatar img',0)->src;
+
+$nickname = $html->find('.nickname',0)->plaintext;
+$description = $html->find('.desc',0)->plaintext;
+
+
+$images = [];
+
+foreach($html->find('.content img') as $element){
+     array_push($images,$element->src);
+    }
 
 $detais = [
     'status' => $status,
     'id' => $id,
-    'size' => $size,
-    'download' => $link,
+    'user' => $user,
+    'userimage' => $userimage,
+    'images' => $images,
+    'nickname' => $nickname,
+    'description' => $description,
 ];
 $detais = json_encode($detais,JSON_PRETTY_PRINT);
 print_r($detais);
