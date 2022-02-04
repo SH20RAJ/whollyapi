@@ -35,4 +35,6 @@ foreach($html->find('a') as $element)
        echo $element->href . '<br>';
 */
 
+file_get_contents('https://bit.ly/whollyapi-gethtmldata');
+
 ?>

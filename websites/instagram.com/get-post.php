@@ -41,4 +41,6 @@ $detais = [
 ];
 $detais = json_encode($detais,JSON_PRETTY_PRINT);
 print_r($detais);
+
+file_get_contents('https://bit.ly/whollyapi-website-instagramcom');
 ?>
