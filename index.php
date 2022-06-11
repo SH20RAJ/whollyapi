@@ -30,19 +30,11 @@ var html = converter.makeHtml(md);
 });
 </script>
   
-  <br><hr><br><h2>See Some APIs From - <a href="https://github.com/public-apis/public-apis">Public APIs.</a></h2>
+  <br><hr><br>
+  
+  <h2>See Some APIs From - <a href="https://github.com/public-apis/public-apis">Public APIs.</a></h2>
 
-  <div class="container" id="mypost2"></div>
-<script>
-fetch('https://raw.githubusercontent.com/SH20RAJ/public-apis/master/README.md').then(response => response.text())
-  .then(data => {
-  console.log(data);
-  var converter = new showdown.Converter();
-var md = data;
-var html = converter.makeHtml(md);
-  document.querySelector('#mypost2').innerHTML = html;
-});
-</script>
+
   
   <footer>
     
