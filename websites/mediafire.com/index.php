@@ -23,7 +23,7 @@
         <a href="../tools" title="Tools">Tools</a>
       </li>
       <li>
-        <a class="btn" href="https://youtube.com/CXDIIN" title="YouTube">YouTube</a>
+        <a class="btn" href="https://youtube.com/playlist?list=PLFcP4G5x1z-oowof1pPA-gTmt0LuyXWf7" title="YouTube">YouTube</a>
       </li>
     </ul>
   </nav>
