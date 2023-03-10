@@ -1,4 +1,4 @@
-### Home :- <a href="https://wholly-api.herokuapp.com/">https://wholly-api.herokuapp.com/</a>
+### Home :- <a href="https://wholly-api.000webhostapp.com/">https://wholly-api.000webhostapp.com/</a>
 
 ---
 
@@ -9,7 +9,7 @@ Article Link :- <a href="https://dev.to/sh20raj/scrapping-pngaaa-and-made-an-api
 
 ### See This is the API endpoint-
 
-`https://wholly-api.herokuapp.com/websites/pngaaa.com/`
+`https://wholly-api.000webhostapp.com/websites/pngaaa.com/`
 
 See this website `https://www.pngaaa.com/` has no feature of API so that a user can not show the website's (https://www.pngaaa.com/) content on their website.
 
@@ -29,17 +29,17 @@ If PngAAA.com have any worry or problem for this just contact me. I will remove 
 
 ## Fetch Categories
 
-`https://wholly-api.herokuapp.com/websites/pngaaa.com/categories.php`
+`https://wholly-api.000webhostapp.com/websites/pngaaa.com/categories.php`
 
 ---
 
 ## Fetch Search Results
 
-`https://wholly-api.herokuapp.com/websites/pngaaa.com/search.php?q={{Your Query String}}&page={{Your Page no.}}`
+`https://wholly-api.000webhostapp.com/websites/pngaaa.com/search.php?q={{Your Query String}}&page={{Your Page no.}}`
 
 See an Example Here :- 
 
-https://wholly-api.herokuapp.com/websites/pngaaa.com/search.php?q=dog&page=10
+https://wholly-api.000webhostapp.com/websites/pngaaa.com/search.php?q=dog&page=10
 
 It will return you Something like this
 
