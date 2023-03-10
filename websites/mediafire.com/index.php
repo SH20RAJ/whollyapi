@@ -41,7 +41,7 @@
   <div id="generatedlink"></div>
   <div id="madeby">
     <span>
-      Try - https://wholly-api.herokuapp.com/websites/mediafire.com/direct_download.php?id=<b>YOUR_FILE_ID</b>
+      Try - https://wholly-api.000webhostapp.com/websites/mediafire.com/direct_download.php?id=<b>YOUR_FILE_ID</b>
     </span>
   </div>
 </div>
@@ -50,7 +50,7 @@
 <script>
     
 function grab() {
- let i = 'https://wholly-api.herokuapp.com/websites/mediafire.com/direct_download.php?id='+document.getElementById('url').value.split("/")[4]+'';
+ let i = 'https://wholly-api.000webhostapp.com/websites/mediafire.com/direct_download.php?id='+document.getElementById('url').value.split("/")[4]+'';
 document.getElementById('url').value = i;
 }
 </script>
