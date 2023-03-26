@@ -12,7 +12,7 @@
 
 ### Grabbing Website details - https://wholly-api.000webhostapp.com/get/ 
 
-- Grab Full HTML of Website :- https://wholly-api.000webhostapp.com/get/website-data.php?get_html=example.com
+- Grab Full HTML of Website :- https://wholly-api.000webhostapp.com/get/website-data.php?get_html=https://example.com
 
 ---
 
