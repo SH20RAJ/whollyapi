@@ -5,7 +5,7 @@
 ---
 
 ### 🔆 See all features and Article on whollyapi Here 
-    <a href="https://dev.to/whollyapi">https://dev.to/whollyapi</a> | <a href="https://bit.ly/3fP3Nh7">https://dev.to/sh20raj/series/16500</a>
+<a href="https://dev.to/whollyapi">https://dev.to/whollyapi</a> | <a href="https://bit.ly/3fP3Nh7">https://dev.to/sh20raj/series/16500</a>
 
 
 ## Our Products
