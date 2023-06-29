@@ -10,9 +10,9 @@
 
 ## Our Products
 
-### Grabbing Website details - https://wholly-api.000webhostapp.com/get/ 
+### Grabbing Website details - https://wholly-api.sh20raj.repl.co/
 
-- Grab Full HTML of Website :- https://wholly-api.000webhostapp.com/get/website-data.php?get_html=https://example.com
+- Grab Full HTML of Website :- https://wholly-api.sh20raj.repl.co/get/website-data.php?get_html=https://example.com
 
 ---
 
