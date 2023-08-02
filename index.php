@@ -218,7 +218,7 @@
               <ul>
                 <li>
                   <span class="frame">
-                    <img src="./WhollyAPI_files/c576fd0b.png" alt="Untitled">
+                    <noimg src="./WhollyAPI_files/c576fd0b.png" alt="Untitled">
                   </span>
                 </li>
               </ul>
