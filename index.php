@@ -2527,11 +2527,11 @@
                     </a>
                   </li>
                   <li>
-                    <a href="https://github.com/SH20RAJ" class="button n02">
+                    <a href="https://sh20raj.gitbook.io/whollyapi/" class="button n02">
                       <svg>
                         <use xlink:href="#icon-8c4b37645de3c276d895d87df51ba614"></use>
                       </svg>
-                      <span class="label">GitHub</span>
+                      <span class="label">Documentation</span>
                     </a>
                   </li>
                 </ul>
