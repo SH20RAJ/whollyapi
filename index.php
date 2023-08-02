@@ -70,7 +70,7 @@
               <div class="inner">
                 <div id="image02" class="image" style="opacity: 1; transform: none;">
                   <span class="frame">
-                    <img src="./WhollyAPI_files/image02.png" alt="">
+                    <img src="https://wholly-api.carrd.co/assets/images/image02.png" alt="">
                   </span>
                 </div>
                 <h1 id="text28" class="style3">Wholly API</h1>
@@ -102,7 +102,7 @@
                 <div>
                   <div id="image03" class="style1 image" style="opacity: 0; transform: scale(0.9);">
                     <span class="frame">
-                      <img src="./WhollyAPI_files/image03.png" alt="">
+                      <img src="https://wholly-api.carrd.co/assets/images/image03.png" alt="">
                     </span>
                   </div>
                   <h3 id="text01" class="style2">Grab Website Content</h3>
@@ -123,7 +123,7 @@
                 <div>
                   <div id="image04" class="style1 image" style="opacity: 0; transform: scale(0.9);">
                     <span class="frame">
-                      <img src="./WhollyAPI_files/image04.svg" alt="">
+                      <img src="https://wholly-api.carrd.co/assets/images/image04.svg" alt="">
                     </span>
                   </div>
                   <h3 id="text04" class="style2">Website Scraping APIs</h3>
@@ -147,7 +147,7 @@
               <div class="inner">
                 <div id="image01" class="style1 image" style="opacity: 0; transform: scale(0.9);">
                   <span class="frame">
-                    <img src="./WhollyAPI_files/image01.svg" alt="">
+                    <img src="https://wholly-api.carrd.co/assets/images/image01.svg" alt="">
                   </span>
                 </div>
                 <h3 id="text17" class="style2">Docs</h3>
@@ -218,7 +218,7 @@
               <ul>
                 <li>
                   <span class="frame">
-                    <noimg src="./WhollyAPI_files/c576fd0b.png" alt="Untitled">
+                    <noimg src="https://wholly-api.carrd.co/assets/images/c576fd0b.png" alt="Untitled">
                   </span>
                 </li>
               </ul>
