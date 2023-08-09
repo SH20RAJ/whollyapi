@@ -14,6 +14,7 @@
 * [🍎 Aptoide](websites/aptoide/README.md)
   * [App Details](websites/aptoide/app-details.md)
   * [List Apps](websites/aptoide/list-apps.md)
+* [▶ YouTube Tag Generator](websites/youtube-tag-generator.md)
 
 ***
 
