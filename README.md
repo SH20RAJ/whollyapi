@@ -12,9 +12,9 @@
 
 ## Our Products
 
-### Grabbing Website details - https://wholly-api.sh20raj.repl.co/
+### Grabbing Website details - [https://wholly-api.sh20raj.repl.co/](https://wholly-api.appspages.online/)
 
-- Grab Full HTML of Website :- https://wholly-api.sh20raj.repl.co/get/website-data.php?get_html=https://example.com
+- Grab Full HTML of Website :- https://wholly-api.appspages.online/website-data.php?get_html=https://example.com
 
 ---
 
