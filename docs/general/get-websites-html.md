@@ -4,14 +4,54 @@ description: Grab Full HTML of Website
 
 # Get Website's HTML
 
-[https://wholly-api.sh20raj.repl.co/get/website-data.php](https://wholly-api.sh20raj.repl.co/get/website-data.php?get\_html=)
+```
+https://whollyapi.vercel.app/api/html?url=
+```
+
+For Example :- [https://whollyapi.vercel.app/api/html?url=https://example.com](https://whollyapi.vercel.app/api/html?url=https://example.com)
 
 
 
-#### Grabbing Website details - [https://wholly-api.sh20raj.repl.co/](https://wholly-api.sh20raj.repl.co/)
 
-* Grab Full HTML of Website :- [https://wholly-api.sh20raj.repl.co/get/website-data.php?get\_html=](https://wholly-api.sh20raj.repl.co/get/website-data.php?get\_html=https://example.com)_{ YOUR WEBSITE'S ADDRESS }_
-* See Example :- [https://wholly-api.sh20raj.repl.co/get/website-data.php?get\_html=https://example.com](https://wholly-api.sh20raj.repl.co/get/website-data.php?get\_html=https://example.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Old Way
+
+
+
+[https://wholly-api.skinnyrunner.com/](https://wholly-api.skinnyrunner.com/)[get/website-data.php](https://wholly-api.sh20raj.repl.co/get/website-data.php?get\_html=)
+
+
+
+#### Grabbing Website details - [https://wholly-api.skinnyrunner.com/](https://wholly-api.skinnyrunner.com/)
+
+* Grab Full HTML of Website :- [https://wholly-api.skinnyrunner.com/](https://wholly-api.skinnyrunner.com/)[get/website-data.php?get\_html=](https://wholly-api.sh20raj.repl.co/get/website-data.php?get\_html=https://example.com)_{ YOUR WEBSITE'S ADDRESS }_
+* See Example :-[ ](https://wholly-api.skinnyrunner.com/)[https://wholly-api.skinnyrunner.com/get/website-data.php?get\_html=https://example.com](https://wholly-api.skinnyrunner.com/get/website-data.php?get\_html=https://example.com)
 
 
 
