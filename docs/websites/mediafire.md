@@ -6,13 +6,15 @@ description: >-
 
 # 📝 Mediafire
 
-Endpoint :- [	https://wholly-api.sh20raj.repl.co/websites/mediafire.com/index.php](https://wholly-api.sh20raj.repl.co/websites/mediafire.com/index.php)
-
-
+Endpoint :- [	](https://wholly-api.sh20raj.repl.co/websites/mediafire.com/index.php)[https://wholly-api.appspages.online/websites/mediafire.com/](https://wholly-api.appspages.online/websites/mediafire.com/)
 
 ## Direct Download Link - Mediafire - Free Unlimited Video Hosting for Blogger/Website \[Trick]
 
-See Video :-
+See Video :- [https://sh20raj.github.io/DrivePlyr/vlitejs.html?id=eyJpZCI6WyIxcUE3QnpHaUhUaHdIUXFHNC1UaDl3YWxUMnVxMkFCQkMiXX0=](https://sh20raj.github.io/DrivePlyr/vlitejs.html?id=eyJpZCI6WyIxcUE3QnpHaUhUaHdIUXFHNC1UaDl3YWxUMnVxMkFCQkMiXX0=)
+
+
+
+{% embed url="https://sh20raj.github.io/DrivePlyr/vlitejs.html?id=eyJpZCI6WyIxcUE3QnpHaUhUaHdIUXFHNC1UaDl3YWxUMnVxMkFCQkMiXX0=" %}
 
 [https://driveplyr.sh20raj.repl.co/vlitejs.html?id=eyJpZCI6WyIxcUE3QnpHaUhUaHdIUXFHNC1UaDl3YWxUMnVxMkFCQkMiXX0=](https://driveplyr.sh20raj.repl.co/vlitejs.html?id=eyJpZCI6WyIxcUE3QnpHaUhUaHdIUXFHNC1UaDl3YWxUMnVxMkFCQkMiXX0=)
 
@@ -20,11 +22,11 @@ See Video :-
 
 ***
 
-> Generate Mediafire Direct Download Link :- https://wholly-api.sh20raj.repl.co/websites/mediafire.com/index.php
+> Generate Mediafire Direct Download Link :- [https://wholly-api.appspages.online/websites/mediafire.com/index.php](https://wholly-api.appspages.online/websites/mediafire.com/index.php)
 
 ***
 
-WhollyAPI :- https://wholly-api.sh20raj.repl.co/
+WhollyAPI :- [https://wholly-api.appspages.online/](https://wholly-api.appspages.online/)
 
 ### Get An HTML5 Video Player
 
@@ -36,7 +38,7 @@ WhollyAPI :- https://wholly-api.sh20raj.repl.co/
 
 Sample Video 1 :- https://www.mediafire.com/file/rt73bnxsuvhsf86/night.mp4/file
 
-Direct Link of Sample Video 1 :- https://wholly-api.sh20raj.repl.co/websites/mediafire.com/direct\_download.php?id=rt73bnxsuvhsf86
+Direct Link of Sample Video 1 :- [https://wholly-api.appspages.online/websites/mediafire.com/direct\_download.php?id=rt73bnxsuvhsf86](https://wholly-api.appspages.online/websites/mediafire.com/direct\_download.php?id=rt73bnxsuvhsf86)
 
 ***
 
