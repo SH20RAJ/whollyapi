@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [🌎 Home](README.md)
 * [☕ General](general/README.md)
   * [Get Website's HTML](general/get-websites-html.md)
 
@@ -17,6 +17,7 @@
 * [▶️ YouTube Tag Generator](websites/youtube-tag-generator.md)
 * [🖼️ Random Images](websites/random-images.md)
 * [💡 Random Quotes](websites/random-quotes.md)
+* [View Counter](websites/view-counter.md)
 
 ***
 
