@@ -4,7 +4,7 @@ description: >-
   details, visit our website
 ---
 
-# Home
+# 🌎 Home
 
 ## WhollyAPI Documentation
 

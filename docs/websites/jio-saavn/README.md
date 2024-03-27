@@ -1,8 +1,28 @@
+---
+description: >-
+  An Unofficial API for downloading high-quality songs, albums, playlists, and
+  more from JioSaavn.
+---
+
 # 🎼 Jio Saavn
 
 ## Introduction
 
-[https://jiosaavn-whollyapi.vercel.app/](https://jiosaavn-whollyapi.vercel.app/) is an unofficial API for JioSaavn for downloading high-quality songs for free. - Forked From [https://docs.saavn.me](https://docs.saavn.me/modules/)/
+An Unofficial API for downloading high-quality songs, albums, playlists, and more from [JioSaavn](https://jiosaavn.com/).
+
+
+
+
+
+> [https://saavn.dev/](https://saavn.dev/)
+>
+> [https://github.com/sumitkolhe/jiosaavn-api](https://github.com/sumitkolhe/jiosaavn-api)
+
+{% embed url="https://github.com/sumitkolhe/jiosaavn-api" %}
+
+[https://jiosaavn-whollyapi.vercel.app/](https://jiosaavn-whollyapi.vercel.app/) is an unofficial API for JioSaavn for downloading high-quality songs for free. - Forked From https://saavn.dev
+
+
 
 ### Features
 

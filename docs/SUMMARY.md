@@ -15,10 +15,13 @@
   * [App Details](websites/aptoide/app-details.md)
   * [List Apps](websites/aptoide/list-apps.md)
 * [▶️ YouTube Tag Generator](websites/youtube-tag-generator.md)
-* [🧒 Random Avatar](websites/random-avatar.md)
-* [🖼️ Random Images](websites/random-images.md)
-* [💡 Random Quotes](websites/random-quotes.md)
-* [👁️ View Counter](websites/view-counter.md)
+
+## data
+
+* [👁️ View Counter](data/view-counter.md)
+* [💡 Random Quotes](data/random-quotes.md)
+* [🖼️ Random Images](data/random-images.md)
+* [🧒 Random Avatar](data/random-avatar.md)
 
 ***
 
