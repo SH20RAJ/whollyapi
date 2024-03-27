@@ -9,28 +9,20 @@
 
 
 
-{% swagger method="get" path="" baseUrl="https://appspages.online/api/aptoide.php?url=https://instagram.en.aptoide.com/app" summary="Get the App Details" %}
-{% swagger-description %}
+## Get the App Details
 
-{% endswagger-description %}
+<mark style="color:blue;">`GET`</mark> `https://appspages.online/api/aptoide.php?url=https://instagram.en.aptoide.com/app`
 
-{% swagger-parameter in="query" name="url" type="https://instagram.en.aptoide.com/app" required="true" %}
-Your Apps URL i.e. 
+#### Query Parameters
 
-[https://instagram.en.aptoide.com/app](https://instagram.en.aptoide.com/app)
+| Name                                      | Type                                 | Description                                                                                     |
+| ----------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| url<mark style="color:red;">\*</mark>     | https://instagram.en.aptoide.com/app | Your Apps URL i.e. [https://instagram.en.aptoide.com/app](https://instagram.en.aptoide.com/app) |
+| app\_id<mark style="color:red;">\*</mark> | instagram                            | Your Apps's ID i.e. instagram                                                                   |
+|                                           | or                                   |                                                                                                 |
 
-
-{% endswagger-parameter %}
-
-{% swagger-parameter in="query" type="or" %}
-
-{% endswagger-parameter %}
-
-{% swagger-parameter in="query" name="app_id" type="instagram" required="true" %}
-Your Apps's ID i.e. instagram
-{% endswagger-parameter %}
-
-{% swagger-response status="200: OK" description="" %}
+{% tabs %}
+{% tab title="200: OK " %}
 ```json
 {
     "props": {
@@ -1720,8 +1712,8 @@ Your Apps's ID i.e. instagram
     "scriptLoader": []
 }
 ```
-{% endswagger-response %}
-{% endswagger %}
+{% endtab %}
+{% endtabs %}
 
 
 
