@@ -2,7 +2,7 @@
 description: Count Visitors Without any Database for free
 ---
 
-# View Counter
+# 👁️ View Counter
 
 ## Visitor Badge
 
