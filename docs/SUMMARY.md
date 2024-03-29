@@ -11,6 +11,7 @@
   * [😎 Details](websites/jio-saavn/details/README.md)
     * [🕶️ Song Details](websites/jio-saavn/details/song-details.md)
 * [📝 Mediafire](websites/mediafire.md)
+* [📥 Terabox](websites/terabox.md)
 * [🍎 Aptoide](websites/aptoide/README.md)
   * [App Details](websites/aptoide/app-details.md)
   * [List Apps](websites/aptoide/list-apps.md)
