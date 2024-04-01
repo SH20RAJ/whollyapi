@@ -18,18 +18,3 @@ Want to show how many visitors your site/GitHub profiles gets? Quickly fill in t
 Website :- [https://visitorbadge.io/](https://visitorbadge.io/)
 
 > [https://api.visitorbadge.io/api/visitors?path={Your Custom Path Name}](https://api.visitorbadge.io/api/visitors?path=path\&countColor=%23263759)
-
-
-
-
-
-
-
-
-
-## Other APIs
-
-> [https://www.stefanjudis.com/.netlify/functions/stats-counter/?path=](https://www.stefanjudis.com/.netlify/functions/stats-counter/?path=){Your Custom Path (Unique Identifier)}
-
-
-
