@@ -72,7 +72,7 @@ Contribute Here
 
 * **CORS**: WhollyAPI is designed to eliminate CORS issues, allowing you to seamlessly integrate these APIs into your projects.
 * **Documentation**: For detailed API endpoints, parameters, and usage examples, refer to the [WhollyAPI Documentation](https://sh20raj.gitbook.io/whollyapi/).
-* **Support**: If you have any questions, feedback, or need assistance with any of the APIs, feel free to reach out to our team at [support@whollyapi.com](mailto:support@whollyapi.com).
+* **Support**: If you have any questions, feedback, or need assistance with any of the APIs, feel free to reach out to our team at support@appspages.online.
 
 ### Get Started
 

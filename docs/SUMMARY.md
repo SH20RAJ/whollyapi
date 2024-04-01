@@ -1,8 +1,10 @@
 # Table of contents
 
 * [🌎 Home](README.md)
-* [☕ General](general/README.md)
-  * [Get Website's HTML](general/get-websites-html.md)
+
+## ☕ General
+
+* [Get Website's HTML](general/get-websites-html.md)
 
 ## 🕸️ Websites
 
