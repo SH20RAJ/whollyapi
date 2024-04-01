@@ -2,6 +2,11 @@
 
 🔆 WhollyAPI - Get Free APIs of Many Website - Public or Scrapped - Use even from JavaScript
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fwhollyapi%2F&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fwhollyapi%2F)
+---
+
+NextJS Vertion :- https://github.com/SH20RAJ/nextapi
+
 ---
 
 ### 🔆 See all features and Article on whollyapi Here 
