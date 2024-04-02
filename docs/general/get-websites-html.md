@@ -1,8 +1,8 @@
 ---
-description: Grab Full HTML of Website
+description: Grab Full HTML of Website without cors error
 ---
 
-# Get Website's HTML
+# Get Website's HTML without cors error
 
 ```
 https://whollyapi.vercel.app/api/html?url=
