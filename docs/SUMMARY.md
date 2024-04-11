@@ -2,6 +2,14 @@
 
 * [🌎 Home](README.md)
 
+## 😎 AI
+
+* [🖼️ Image Generation](ai/image-generation.md)
+
+## ☁️ Hosting
+
+* [🖼️ Image](hosting/image.md)
+
 ## ☕ General
 
 * [Get Website's HTML](general/get-websites-html.md)

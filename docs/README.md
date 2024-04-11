@@ -1,7 +1,5 @@
 ---
-description: >-
-  WhollyAPI - Providing Free APIs for Developers without CORS Errors For more
-  details, visit our website
+description: WhollyAPI - Get Free APIs Use For JavaScript of Many Websites
 ---
 
 # 🌎 Home
