@@ -9,16 +9,32 @@ if (isset($_GET['id'])) {
     die();
 }
 
-// Fetch the HTML content of the page
-$html = file_get_contents($url);
+function fetch_html($url) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0');
+    $response = curl_exec($ch);
+    if (curl_errno($ch)) {
+        echo 'cURL Error: ' . curl_error($ch);
+        curl_close($ch);
+        return false;
+    }
+    curl_close($ch);
+    return $response;
+}
+
+$html = fetch_html($url);
 if (!$html) {
-    echo "Failed to fetch the URL content.";
+    echo "Failed to fetch the URL content via cURL.";
     die();
 }
 
 // Load HTML into DOMDocument
 $dom = new DOMDocument();
-libxml_use_internal_errors(true); // Suppress warnings for invalid HTML
+libxml_use_internal_errors(true);
 $dom->loadHTML($html);
 libxml_clear_errors();
 
@@ -27,7 +43,6 @@ $xpath = new DOMXPath($dom);
 $button = $xpath->query("//*[@id='downloadButton']");
 
 if ($button->length > 0) {
-    // Extract the href attribute
     $directlink = $button->item(0)->getAttribute('href');
     header('Location: ' . $directlink);
     exit;
